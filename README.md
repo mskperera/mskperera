@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile Portfolio</title>
+    <title>About Me</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -15,46 +15,66 @@
             margin: 0 auto;
             padding: 20px;
         }
-        h1, h2 {
-            text-align: center;
-        }
         h2 {
-            margin-top: 30px;
-        }
-        p {
-            line-height: 1.6;
-        }
-        .skills {
             margin-top: 20px;
         }
-        .skill {
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
             margin-bottom: 10px;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>My GitHub Profile</h1>
-        <div id="bio">
-            <h2>Bio</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquet, odio nec consectetur feugiat, risus ipsum ultricies leo, sit amet eleifend justo nulla at lorem. Sed tempus sapien in neque pharetra, nec tristique purus aliquet. Integer id sapien in massa posuere accumsan.</p>
-            <p>Followers: 1000</
-<p>Following: 500</p>
-            <p>Public Repos: 50</p>
-            <p>Public Gists: 10</p>
-        </div>
-        <h2>Experience</h2>
-        <div id="experience">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquet, odio nec consectetur feugiat, risus ipsum ultricies leo, sit amet eleifend justo nulla at lorem. Sed tempus sapien in neque pharetra, nec tristique purus aliquet. Integer id sapien in massa posuere accumsan.</p>
-        </div>
-        <h2>Skills</h2>
-        <div class="skills" id="skills">
-            <div class="skill">HTML</div>
-            <div class="skill">CSS</div>
-            <div class="skill">JavaScript</div>
-            <div class="skill">Python</div>
-        </div>
+        <h1>About Me</h1>
+        <h2>🔭 I'm currently working on...</h2>
+        <ul>
+            <li>Building a new web application</li>
+            <li>Improving my coding skills</li>
+        </ul>
+        
+        <h2>🌱 I'm currently learning...</h2>
+        <ul>
+            <li>Advanced JavaScript techniques</li>
+            <li>Machine learning algorithms</li>
+        </ul>
+        
+        <h2>👯 I'm looking to collaborate on...</h2>
+        <ul>
+            <li>Open-source projects</li>
+            <li>Web development initiatives</li>
+        </ul>
+        
+        <h2>🤔 I'm looking for help with...</h2>
+        <ul>
+            <li>Debugging complex issues</li>
+            <li>Optimizing website performance</li>
+        </ul>
+        
+        <h2>💬 Ask me about...</h2>
+        <ul>
+            <li>Front-end development</li>
+            <li>Version control with Git</li>
+        </ul>
+        
+        <h2>📫 How to reach me:</h2>
+        <ul>
+            <li>Email: example@example.com</li>
+            <li>Twitter: @example_user</li>
+        </ul>
+        
+        <h2>😄 Pronouns:</h2>
+        <ul>
+            <li>He/Him</li>
+        </ul>
+        
+        <h2>⚡ Fun fact:</h2>
+        <ul>
+            <li>I can solve a Rubik's Cube in under a minute!</li>
+        </ul>
     </div>
 </body>
 </html>
-
