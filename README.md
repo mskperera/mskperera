@@ -1,5 +1,28 @@
 # About Me
 
+# My GitHub Profile
+
+## Bio
+- 👨‍💻 Software Engineer
+- 🌍 Based in [Your Location]
+
+## Skills
+- Frontend Development
+- Backend Development
+- Database Management
+- UI/UX Design
+
+## Languages
+### JavaScript
+![JavaScript](https://progress-bar.dev/90/?title=Fluency)
+### Python
+![Python](https://progress-bar.dev/80/?title=Fluency)
+### HTML/CSS
+![HTML/CSS](https://progress-bar.dev/95/?title=Fluency)
+### SQL
+![SQL](https://progress-bar.dev/85/?title=Fluency)
+
+
 ## 🔭 I'm currently working on...
 - Building a new web application
 - Improving my coding skills
