@@ -1,5 +1,5 @@
 ## About Me
-### I am a seasoned Software Engineer, blending expertise in system design, software craftsmanship, and full-stack ingenuity. With a profound understanding of cutting-edge technologies, I wield creativity to architect resilient systems, orchestrate seamless performance enhancements, and manifest exquisite solutions. My repertoire traverses a rich tapestry of development languages and frameworks, encompassing ReactJS, React Native, Next.js, Node.js, Python, and an array of sophisticated database management systems including MSSQL and MySQL.
+### I am a seasoned software engineer with a passion for crafting innovative solutions and pushing the boundaries of technology. With a comprehensive understanding of modern development methodologies, I excel in system design, software development, and full-stack solutions. My expertise lies in architecting robust systems, optimizing performance, and delivering high-quality solutions. I am committed to continuous learning and staying abreast of the latest industry trends to ensure that my skills remain sharp and relevant. With a strong foundation in problem-solving and a creative approach to challenges, I thrive in dynamic and collaborative environments. Let's collaborate and bring transformative ideas to life!
 
 ## Skills
 ### - Frontend Development
