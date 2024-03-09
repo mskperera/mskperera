@@ -1,7 +1,7 @@
 # About Me
 ### In the world of tech, I'm always exploring new stuff to learn more. I love finding smart solutions to tough problems. I know a lot about building systems, designing software, and making things look good. I'm ### big on teamwork and think working together makes us better.
 
-I'm always up for tackling new challenges and figuring out tricky problems. Let's work together and make cool stuff happen!
+### I'm always up for tackling new challenges and figuring out tricky problems. Let's work together and make cool stuff happen!
 
 # My GitHub Profile
 
