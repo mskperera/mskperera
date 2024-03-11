@@ -17,6 +17,9 @@
 ### SQL
 ![SQL](https://progress-bar.dev/85/?title=Fluency)
 
+### C#.net
+![JavaScript](https://progress-bar.dev/90/ffa500/?title=Fluency)
+
 
 ## 🔭 I'm currently working on...
 - Building a new web application
