@@ -2,29 +2,34 @@
 I am a seasoned software engineer with a passion for crafting innovative solutions and pushing the boundaries of technology. With a comprehensive understanding of modern development methodologies, I excel in system design, software development, and full-stack solutions. My expertise lies in architecting robust systems, optimizing performance, and delivering high-quality solutions. I am committed to continuous learning and staying abreast of the latest industry trends to ensure that my skills remain sharp and relevant. With a strong foundation in problem-solving and a creative approach to challenges, I thrive in dynamic and collaborative environments. Let's collaborate and bring transformative ideas to life!
 
 ## Skills
-**Programming Languages** :
-### JavaScript
+### Programming Languages :
+#### JavaScript
 ![JavaScript](https://progress-bar.dev/95/?title=Fluency)
-### HTML/CSS
+#### HTML/CSS
 ![HTML/CSS](https://progress-bar.dev/95/?title=Fluency)
-### SQL
+#### SQL
 ![SQL](https://progress-bar.dev/90/?title=Fluency)
-### C#.net
+#### C#.net
 ![C#.net](https://progress-bar.dev/90/?title=Fluency)
-### Python
+#### Python
 ![Python](https://progress-bar.dev/60/?title=Fluency)
-### Java
+#### Java
 ![JavaScript](https://progress-bar.dev/50/?title=Fluency)
-### PHP
+#### PHP
 ![JavaScript](https://progress-bar.dev/50/?title=Fluency)
-
 
 **Frameworks** :  ReactJS, Node.js, React Native, Django, ASP.Net, .Net Framework, Bootstrap, Tailwind CSS
+
 **Web Development** : HTML, CSS,
+
 **Database Management** : MySQL, MSSQL, MariaDB, SQLite, MongoDB, Firebase
+
 **Server Management & Deployment** : IIS, Nginx, Apache
+
 **Development Tools & Environments** : Microsoft Visual Studio, Visual Studio Code, Android Studio, Postman, Git Version Control
+
 **Reporting Tools** : SAP Crystal Reports, Microsoft SQL Server Reporting Services (RDL/RDLC)
+
 **Operating Systems** : Linux, Windows 
 
 ### Additional:
