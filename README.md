@@ -4,7 +4,7 @@ I am a seasoned software engineer with a passion for crafting innovative solutio
 
 
 #### JavaScript  
-[https://port-wigets.vercel.app/api/render-html](https://port-wigets.vercel.app/api/render-html)
+[https://port-wigets.vercel.app/api/render-html](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## Skills
 ### Programming Languages :
