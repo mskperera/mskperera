@@ -1,55 +1,20 @@
 ## About Me
 I am a seasoned software engineer with a passion for crafting innovative solutions and pushing the boundaries of technology. With a comprehensive understanding of modern development methodologies, I excel in system design, software development, and full-stack solutions. My expertise lies in architecting robust systems, optimizing performance, and delivering high-quality solutions. I am committed to continuous learning and staying abreast of the latest industry trends to ensure that my skills remain sharp and relevant. With a strong foundation in problem-solving and a creative approach to challenges, I thrive in dynamic and collaborative environments. Let's collaborate and bring transformative ideas to life!
 
-## Skills
-
-### Programming Languages :
-
 #### JavaScript
-<div class="progress-circle" style="--percentage: 95;" data-percentage="95"></div>
+<div style="width: 100px; height: 100px; position: relative; border-radius: 50%; background: conic-gradient(#3498db 0%, #3498db 95%, transparent 95%, transparent 100%);">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 20px; color: #3498db;">95%</div>
+</div>
 
 #### HTML/CSS
-<div class="progress-circle" style="--percentage: 95;" data-percentage="95"></div>
+<div style="width: 100px; height: 100px; position: relative; border-radius: 50%; background: conic-gradient(#3498db 0%, #3498db 95%, transparent 95%, transparent 100%);">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 20px; color: #3498db;">95%</div>
+</div>
 
 #### SQL
-<div class="progress-circle" style="--percentage: 90;" data-percentage="90"></div>
-
-#### C#.net
-<div class="progress-circle" style="--percentage: 90;" data-percentage="90"></div>
-
-#### Python
-<div class="progress-circle" style="--percentage: 60;" data-percentage="60"></div>
-
-#### Java
-<div class="progress-circle" style="--percentage: 50;" data-percentage="50"></div>
-
-#### PHP
-<div class="progress-circle" style="--percentage: 50;" data-percentage="50"></div>
-
-<style>
-  .progress-circle {
-    width: 100px;
-    height: 100px;
-    position: relative;
-    border-radius: 50%;
-    background: conic-gradient(
-      #3498db 0%,
-      #3498db calc(var(--percentage) * 1%),
-      transparent calc(var(--percentage) * 1%),
-      transparent 100%
-    );
-  }
-
-  .progress-circle::before {
-    content: attr(data-percentage) '%';
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 20px;
-    color: #3498db;
-  }
-</style>
+<div style="width: 100px; height: 100px; position: relative; border-radius: 50%; background: conic-gradient(#3498db 0%, #3498db 90%, transparent 90%, transparent 100%);">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 20px; color: #3498db;">90%</div>
+</div>
 
 
 
