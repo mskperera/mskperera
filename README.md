@@ -3,20 +3,21 @@ I am a seasoned software engineer with a passion for crafting innovative solutio
 
 ## Skills
 **Programming Languages** :
+### JavaScript
+![JavaScript](https://progress-bar.dev/95/?title=Fluency)
+### HTML/CSS
+![HTML/CSS](https://progress-bar.dev/95/?title=Fluency)
+### SQL
+![SQL](https://progress-bar.dev/90/?title=Fluency)
 ### C#.net
 ![C#.net](https://progress-bar.dev/90/ffa500/?title=Fluency)
+### Python
+![Python](https://progress-bar.dev/60/?title=Fluency)
 ### Java
 ![JavaScript](https://progress-bar.dev/50/?title=Fluency)
 ### PHP
 ![JavaScript](https://progress-bar.dev/50/?title=Fluency)
-### JavaScript
-![JavaScript](https://progress-bar.dev/90/?title=Fluency)
-### Python
-![Python](https://progress-bar.dev/60/?title=Fluency)
-### HTML/CSS
-![HTML/CSS](https://progress-bar.dev/95/?title=Fluency)
-### SQL
-![SQL](https://progress-bar.dev/85/?title=Fluency)
+
 
 **Frameworks** :  ReactJS, Node.js, React Native, Django, ASP.Net, .Net Framework, Bootstrap, Tailwind CSS
 **Web Development** : HTML, CSS,
