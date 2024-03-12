@@ -5,9 +5,9 @@ I am a seasoned software engineer with a passion for crafting innovative solutio
 ### Programming Languages :
 
 ' #### JavaScript  
-![JavaScript](https://img.shields.io/badge/Progress-95%25-blue?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/Progress-95%25-blue?style=for-the-badge&logo=javascript) '
 
-#### HTML/CSS  
+' #### HTML/CSS  
 ![HTML/CSS](https://img.shields.io/badge/Progress-95%25-blue?style=for-the-badge&logo=html5) '
 
 #### SQL  ![SQL](https://img.shields.io/badge/Progress-90%25-blue?style=for-the-badge&logo=sql)
