@@ -1,39 +1,29 @@
 ## About Me
 I am a seasoned software engineer with a passion for crafting innovative solutions and pushing the boundaries of technology. With a comprehensive understanding of modern development methodologies, I excel in system design, software development, and full-stack solutions. My expertise lies in architecting robust systems, optimizing performance, and delivering high-quality solutions. I am committed to continuous learning and staying abreast of the latest industry trends to ensure that my skills remain sharp and relevant. With a strong foundation in problem-solving and a creative approach to challenges, I thrive in dynamic and collaborative environments. Let's collaborate and bring transformative ideas to life!
 
-#### JavaScript
-<div style="width: 100px; height: 100px; position: relative; border-radius: 50%; background: conic-gradient(#3498db 0%, #3498db 95%, transparent 95%, transparent 100%);">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 20px; color: #fff;">95%</div>
-</div>
-
-#### HTML/CSS
-<div style="width: 100px; height: 100px; position: relative; border-radius: 50%; background: conic-gradient(#3498db 0%, #3498db 95%, transparent 95%, transparent 100%);">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 20px; color: #fff;">95%</div>
-</div>
-
-#### SQL
-<div style="width: 100px; height: 100px; position: relative; border-radius: 50%; background: conic-gradient(#3498db 0%, #3498db 90%, transparent 90%, transparent 100%);">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 20px; color: #fff;">90%</div>
-</div>
-
-
-
 ## Skills
 ### Programming Languages :
 #### JavaScript
-![JavaScript](https://progress-bar.dev/95/?title=Fluency)
+![JavaScript](https://img.shields.io/badge/Progress-95%25-blue?style=for-the-badge&logo=javascript)
+
 #### HTML/CSS
-![HTML/CSS](https://progress-bar.dev/95/?title=Fluency)
+![HTML/CSS](https://img.shields.io/badge/Progress-95%25-blue?style=for-the-badge&logo=html5)
+
 #### SQL
-![SQL](https://progress-bar.dev/90/?title=Fluency)
+![SQL](https://img.shields.io/badge/Progress-90%25-blue?style=for-the-badge&logo=sql)
+
 #### C#.net
-![C#.net](https://progress-bar.dev/90/?title=Fluency)
+![C#.net](https://img.shields.io/badge/Progress-90%25-blue?style=for-the-badge&logo=csharp)
+
 #### Python
-![Python](https://progress-bar.dev/60/?title=Fluency)
+![Python](https://img.shields.io/badge/Progress-60%25-blue?style=for-the-badge&logo=python)
+
 #### Java
-![JavaScript](https://progress-bar.dev/50/?title=Fluency)
+![Java](https://img.shields.io/badge/Progress-50%25-blue?style=for-the-badge&logo=java)
+
 #### PHP
-![JavaScript](https://progress-bar.dev/50/?title=Fluency)
+![PHP](https://img.shields.io/badge/Progress-50%25-blue?style=for-the-badge&logo=php)
+
 
 **Frameworks** :  ReactJS, Node.js, React Native, Django, ASP.Net, .Net Framework, Bootstrap, Tailwind CSS
 
