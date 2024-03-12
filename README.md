@@ -1,14 +1,30 @@
 ## About Me
-### I am a seasoned software engineer with a passion for crafting innovative solutions and pushing the boundaries of technology. With a comprehensive understanding of modern development methodologies, I excel in system design, software development, and full-stack solutions. My expertise lies in architecting robust systems, optimizing performance, and delivering high-quality solutions. I am committed to continuous learning and staying abreast of the latest industry trends to ensure that my skills remain sharp and relevant. With a strong foundation in problem-solving and a creative approach to challenges, I thrive in dynamic and collaborative environments. Let's collaborate and bring transformative ideas to life!
+I am a seasoned software engineer with a passion for crafting innovative solutions and pushing the boundaries of technology. With a comprehensive understanding of modern development methodologies, I excel in system design, software development, and full-stack solutions. My expertise lies in architecting robust systems, optimizing performance, and delivering high-quality solutions. I am committed to continuous learning and staying abreast of the latest industry trends to ensure that my skills remain sharp and relevant. With a strong foundation in problem-solving and a creative approach to challenges, I thrive in dynamic and collaborative environments. Let's collaborate and bring transformative ideas to life!
 
 ## Skills
-### Programming Languages: 
-#### Front-End: HTML, CSS, JavaScript, React, React Native, Angular
-Back-End: Python, Java, C++, PHP, Ruby, Node.js
+**Programming Languages** :
+### C#.net
+![C#.net](https://progress-bar.dev/90/ffa500/?title=Fluency)
+### Java
+![JavaScript](https://progress-bar.dev/50/?title=Fluency)
+### PHP
+![JavaScript](https://progress-bar.dev/50/?title=Fluency)
+### JavaScript
+![JavaScript](https://progress-bar.dev/90/?title=Fluency)
+### Python
+![Python](https://progress-bar.dev/60/?title=Fluency)
+### HTML/CSS
+![HTML/CSS](https://progress-bar.dev/95/?title=Fluency)
+### SQL
+![SQL](https://progress-bar.dev/85/?title=Fluency)
 
-### Frameworks & Libraries:
-#### Front-End: Bootstrap, Materialize, Tailwind CSS
-Back-End: Django, Spring, Express.js, Laravel
+**Frameworks** :  ReactJS, Node.js, React Native, Django, ASP.Net, .Net Framework, Bootstrap, Tailwind CSS
+**Web Development** : HTML, CSS,
+**Database Management** : MySQL, MSSQL, MariaDB, SQLite, MongoDB, Firebase
+**Server Management & Deployment** : IIS, Nginx, Apache
+**Development Tools & Environments** : Microsoft Visual Studio, Visual Studio Code, Android Studio, Postman, Git Version Control
+**Reporting Tools** : SAP Crystal Reports, Microsoft SQL Server Reporting Services (RDL/RDLC)
+**Operating Systems** : Linux, Windows 
 
 ### Additional:
 #### Asynchronous Programming: A core concept in Node.js, understanding how to write non-blocking code for efficient use of resources.
@@ -17,17 +33,7 @@ Package Management: Using tools like npm (Node Package Manager) to install and m
 Testing Frameworks: Writing unit and integration tests for your Node.js applications using frameworks like Mocha or Jest.
 Deployment: Understanding how to deploy Node.js applications to production environments (e.g., cloud platforms).
 
-## Languages
-### JavaScript
-![JavaScript](https://progress-bar.dev/90/?title=Fluency)
-### Python
-![Python](https://progress-bar.dev/80/?title=Fluency)
-### HTML/CSS
-![HTML/CSS](https://progress-bar.dev/95/?title=Fluency)
-### C#.net
-![C#.net](https://progress-bar.dev/90/ffa500/?title=Fluency)
-### SQL
-![SQL](https://progress-bar.dev/85/?title=Fluency)
+
 
 
 ## 🔭 I'm currently working on...
