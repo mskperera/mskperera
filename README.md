@@ -10,7 +10,7 @@ I am a seasoned software engineer with a passion for crafting innovative solutio
 ### SQL
 ![SQL](https://progress-bar.dev/90/?title=Fluency)
 ### C#.net
-![C#.net](https://progress-bar.dev/90/ffa500/?title=Fluency)
+![C#.net](https://progress-bar.dev/60/?title=Fluency)
 ### Python
 ![Python](https://progress-bar.dev/60/?title=Fluency)
 ### Java
