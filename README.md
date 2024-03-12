@@ -4,25 +4,19 @@ I am a seasoned software engineer with a passion for crafting innovative solutio
 ## Skills
 ### Programming Languages :
 
-#### JavaScript ![JavaScript](https://img.shields.io/badge/Progress-95%25-blue?style=for-the-badge&logo=javascript)
+#### JavaScript  ![JavaScript](https://img.shields.io/badge/Progress-95%25-blue?style=for-the-badge&logo=javascript)
 
-#### HTML/CSS ![HTML/CSS](https://img.shields.io/badge/Progress-95%25-blue?style=for-the-badge&logo=html5)
+#### HTML/CSS  ![HTML/CSS](https://img.shields.io/badge/Progress-95%25-blue?style=for-the-badge&logo=html5)
 
-#### SQL
-![SQL](https://img.shields.io/badge/Progress-90%25-blue?style=for-the-badge&logo=sql)
+#### SQL  ![SQL](https://img.shields.io/badge/Progress-90%25-blue?style=for-the-badge&logo=sql)
 
-#### C#.net
-![C#.net](https://img.shields.io/badge/Progress-90%25-blue?style=for-the-badge&logo=csharp)
+#### C#.net  ![C#.net](https://img.shields.io/badge/Progress-90%25-blue?style=for-the-badge&logo=csharp)
 
-#### Python
-![Python](https://img.shields.io/badge/Progress-60%25-blue?style=for-the-badge&logo=python)
+#### Python  ![Python](https://img.shields.io/badge/Progress-60%25-blue?style=for-the-badge&logo=python)
 
-#### Java
-![Java](https://img.shields.io/badge/Progress-50%25-blue?style=for-the-badge&logo=java)
+#### Java  ![Java](https://img.shields.io/badge/Progress-50%25-blue?style=for-the-badge&logo=java)
 
-#### PHP
-![PHP](https://img.shields.io/badge/Progress-50%25-blue?style=for-the-badge&logo=php)
-'
+#### PHP  ![PHP](https://img.shields.io/badge/Progress-50%25-blue?style=for-the-badge&logo=php)
 
 **Frameworks** :  ReactJS, Node.js, React Native, Django, ASP.Net, .Net Framework, Bootstrap, Tailwind CSS
 
