@@ -3,17 +3,17 @@ I am a seasoned software engineer with a passion for crafting innovative solutio
 
 #### JavaScript
 <div style="width: 100px; height: 100px; position: relative; border-radius: 50%; background: conic-gradient(#3498db 0%, #3498db 95%, transparent 95%, transparent 100%);">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 20px; color: #3498db;">95%</div>
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 20px; color: #fff;">95%</div>
 </div>
 
 #### HTML/CSS
 <div style="width: 100px; height: 100px; position: relative; border-radius: 50%; background: conic-gradient(#3498db 0%, #3498db 95%, transparent 95%, transparent 100%);">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 20px; color: #3498db;">95%</div>
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 20px; color: #fff;">95%</div>
 </div>
 
 #### SQL
 <div style="width: 100px; height: 100px; position: relative; border-radius: 50%; background: conic-gradient(#3498db 0%, #3498db 90%, transparent 90%, transparent 100%);">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 20px; color: #3498db;">90%</div>
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 20px; color: #fff;">90%</div>
 </div>
 
 
