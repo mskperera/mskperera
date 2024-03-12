@@ -1,6 +1,12 @@
 ## About Me
 I am a seasoned software engineer with a passion for crafting innovative solutions and pushing the boundaries of technology. With a comprehensive understanding of modern development methodologies, I excel in system design, software development, and full-stack solutions. My expertise lies in architecting robust systems, optimizing performance, and delivering high-quality solutions. I am committed to continuous learning and staying abreast of the latest industry trends to ensure that my skills remain sharp and relevant. With a strong foundation in problem-solving and a creative approach to challenges, I thrive in dynamic and collaborative environments. Let's collaborate and bring transformative ideas to life!
 
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 100px; height: 100px; background-color: red;">2</div>
+  <div style="width: 100px; height: 100px; background-color: green;">4</div>
+  <div style="width: 100px; height: 100px; background-color: blue;">88</div>
+</div>
 ## Skills
 ### Programming Languages :
 #### JavaScript
