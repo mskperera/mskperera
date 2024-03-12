@@ -1,6 +1,48 @@
 ## About Me
 I am a seasoned software engineer with a passion for crafting innovative solutions and pushing the boundaries of technology. With a comprehensive understanding of modern development methodologies, I excel in system design, software development, and full-stack solutions. My expertise lies in architecting robust systems, optimizing performance, and delivering high-quality solutions. I am committed to continuous learning and staying abreast of the latest industry trends to ensure that my skills remain sharp and relevant. With a strong foundation in problem-solving and a creative approach to challenges, I thrive in dynamic and collaborative environments. Let's collaborate and bring transformative ideas to life!
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Circular Progress Bars</title>
+<style>
+  .progress-circle {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    border-radius: 50%;
+    background: conic-gradient(
+      #3498db 0%,
+      #3498db calc(var(--percentage) * 1%),
+      transparent calc(var(--percentage) * 1%),
+      transparent 100%
+    );
+  }
+
+  .progress-circle::before {
+    content: attr(data-percentage) '%';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    color: #3498db;
+  }
+</style>
+</head>
+<body>
+<div class="progress-circle" style="--percentage: 95;" data-percentage="95"></div>
+<div class="progress-circle" style="--percentage: 95;" data-percentage="95"></div>
+<div class="progress-circle" style="--percentage: 90;" data-percentage="90"></div>
+<div class="progress-circle" style="--percentage: 90;" data-percentage="90"></div>
+<div class="progress-circle" style="--percentage: 60;" data-percentage="60"></div>
+<div class="progress-circle" style="--percentage: 50;" data-percentage="50"></div>
+</body>
+</html>
+
+
 ## Skills
 ### Programming Languages :
 #### JavaScript
